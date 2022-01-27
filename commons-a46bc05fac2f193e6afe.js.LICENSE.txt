@@ -1,0 +1,11 @@
+/**
+ * A better abstraction over CSS.
+ *
+ * @copyright Oleg Isonen (Slobodskoi) / Isonen 2014-present
+ * @website https://github.com/cssinjs/jss
+ * @license MIT
+ */
+
+//! TO DO: hover pop-up, link to edit page, make the numbers variable so they can be edited 
+
+//! maybe make daily & weekly into svgs 
